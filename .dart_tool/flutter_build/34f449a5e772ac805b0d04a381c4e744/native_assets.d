@@ -1,0 +1,1 @@
+ /Users/linda/Desktop/workspace/nomad_challenge_final/.dart_tool/flutter_build/34f449a5e772ac805b0d04a381c4e744/native_assets.yaml: 
