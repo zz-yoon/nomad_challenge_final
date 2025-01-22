@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/fzjH7kt1017R9EckLDmWmH5pGhD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 970450,
+  "imdb_id": "tt15041836",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Werewolves",
+  "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+  "popularity": 1075.085,
+  "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+  "production_companies": [
+    {
+      "id": 33768,
+      "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+      "name": "The Solution",
+      "origin_country": "US"
+    },
+    {
+      "id": 24513,
+      "logo_path": "/tW8mCKX6JgFyPAZjszZ3scCTqZk.png",
+      "name": "Pimienta",
+      "origin_country": "PR"
+    },
+    {
+      "id": 207377,
+      "logo_path": "/sWr5TJKSXYXRFGT8BUq6UUCbygo.png",
+      "name": "Monty the Dog Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PR",
+      "name": "Puerto Rico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-04",
+  "revenue": 1052998,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They will hunt you.",
+  "title": "Werewolves",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 201
+}
